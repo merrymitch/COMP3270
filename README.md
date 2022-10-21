@@ -4,7 +4,7 @@ Introduction to Algorithms
 
 ```
 
-    Total Views per Day from 2022-10-13 to 2022-10-20
+    Total Views per Day from 2022-10-13 to 2022-10-21
 
     Repository Views
    15.00  ┼     ╭╮
@@ -18,12 +18,12 @@ Introduction to Algorithms
     7.00  ┤     ││
     6.00  ┤     ││
     5.00  ┤     ││
-    4.00  ┼╮    ││
-    3.00  ┤│    ││
-    2.00  ┤│    ││
-    1.00  ┤│    ││
-    0.00  ┤╰────╯╰
+    4.00  ┼╮    │╰╮
+    3.00  ┤│    │ │
+    2.00  ┤│    │ │
+    1.00  ┤│    │ │
+    0.00  ┤╰────╯ ╰
 
-    Chart last updated - Thu Oct 20 01:00:40 2022 UTC
+    Chart last updated - Fri Oct 21 01:00:42 2022 UTC
     
 ```
